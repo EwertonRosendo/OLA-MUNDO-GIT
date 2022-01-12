@@ -1,2 +1,2 @@
-# OLA-MUNDO-GIT
+# Olá, Mundo!
  Curso em Video do Gustavo Guanabara
